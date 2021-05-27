@@ -1,4 +1,4 @@
-## Study case number 2 of the Computational Data Analysis course.
+### Study case number 2 of the Computational Data Analysis course.
 # Myocardical infraction complications prediction
 
 The aim of the project is to develop an algorithm for analyzizng and classify (yes/no) the possible myocardial infraction outcome given a dataset of patients and their medical history. \
